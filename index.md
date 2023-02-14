@@ -14,3 +14,8 @@
 echo "Hello world";
 ?>
 ```
+
+
+- [x] Add headers in index.md in the github communicate using markdown skills course
+- [x] Add image in index.md in the github communicate using markdown skills course
+- [x] Add code example in index.md in the github communicate using markdown skills course
